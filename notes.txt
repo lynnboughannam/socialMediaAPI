@@ -1,0 +1,18 @@
+Json web token is way to represent claims btw 2 parties
+
+to contact in a secure way->token
+token is encrypted depending on the algorithm 
+with specific time of validation
+help with authorization: if we have the right to do
+
+____________________________________
+cookies and session
+jwt ->using rest api
+rest api is indep of frontend
+
+____________________________________
+when we create a jwt token and give the user a token for 1 hour
+--> after an hour they have to login
+
+____________________________________
+barrel token: give access to the person who has this token
